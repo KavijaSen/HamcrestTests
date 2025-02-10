@@ -1,2 +1,2 @@
 # HamcrestTests
-Example test cases using Hamcrest Matchers
+Example test case using Hamcrest Matchers
