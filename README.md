@@ -14,4 +14,6 @@ Test Validation:
 The test uses JUnit's assertEquals() to compare the expected email ("user123@example.com") with the actual email retrieved from the User object.
 If the values match, the test passes. If they don't, the test fails.
 
+Environment: IntelliJ IDEA, JUnit, Maven
+
 This test ensures that the UserService correctly retrieves the expected email for a given user ID.
